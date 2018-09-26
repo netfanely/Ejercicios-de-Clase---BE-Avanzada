@@ -1,0 +1,12 @@
+comandos de mi primera aplicacao NodeJS
+
+sudo apt install nodejs
+node --version
+
+mkdir first-app
+cd first-app
+code .
+New File
+app.js
+
+node app.js
